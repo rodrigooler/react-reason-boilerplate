@@ -1,0 +1,17 @@
+# ninja log v5
+3	21	1509208514	ReactTemplate.cmi	1ded5891058ed7d2
+1	67	1509208514	src/page.mlast	39f142c9bfa2d202
+2	67	1509208514	src/index.mlast	79cec04353f37175
+67	76	1509208514	src/page.mlast.d	8fee8d66a31fbc63
+67	76	1509208514	src/index.mlast.d	31b07b6dadf44da3
+1	19	1509208514	src/page-ReactTemplate.cmj	d8d03accd4468bff
+1	19	1509208514	/Users/oler/Projects/react-reason-boilerplate/src/page.bs.js	d8d03accd4468bff
+1	19	1509208514	src/page-ReactTemplate.cmi	d8d03accd4468bff
+19	32	1509208514	src/index-ReactTemplate.cmj	c412bc2147773573
+19	32	1509208514	/Users/oler/Projects/react-reason-boilerplate/src/index.bs.js	c412bc2147773573
+19	32	1509208514	src/index-ReactTemplate.cmi	c412bc2147773573
+0	102	1509208817	src/index.mlast	79cec04353f37175
+102	116	1509208817	src/index.mlast.d	31b07b6dadf44da3
+0	20	1509208817	src/index-ReactTemplate.cmj	c412bc2147773573
+0	20	1509208817	/Users/oler/Projects/react-reason-boilerplate/src/index.bs.js	c412bc2147773573
+0	20	1509208817	src/index-ReactTemplate.cmi	c412bc2147773573

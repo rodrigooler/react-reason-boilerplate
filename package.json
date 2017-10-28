@@ -1,0 +1,24 @@
+{
+  "name": "react-template",
+  "version": "0.1.0",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "reason-react": ">=0.2.1"
+  },
+  "devDependencies": {
+    "bs-platform": "^1.10.3",
+    "webpack": "^3.8.1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "bsb -make-world",
+    "clean": "bsb -clean-world",
+    "start": "bsb -make-world -w",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack -w"
+  }
+}
